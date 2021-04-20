@@ -1,5 +1,6 @@
 Hugo Example Blog
 =================
+Fake bump
 
 This code is copied from https://github.com/gohugoio/hugo/tree/master/examples/blog for testing purposes.
 
